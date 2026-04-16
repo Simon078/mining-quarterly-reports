@@ -1,44 +1,34 @@
-# Report Coverage Notes
+# 报告覆盖情况说明
 
-This repository stores official report PDFs gathered for three Australian
-lithium mines: Mt Holland, Wodgina, and Bald Hill.
+本仓库存放了 `Mt Holland`、`Wodgina` 和 `Bald Hill` 三个澳洲锂矿的官方报告 PDF。
 
 ## Mt Holland
 
-Missing quarters:
+缺失季度：
 - `2019Q3-2021Q2`
 
-Reason:
-- Mt Holland had not yet entered formal construction during this period, so
-  these quarters were treated as pre-construction and were not included.
-- From `2021Q3` onward, the project entered construction. After that point,
-  official disclosure was mainly through `Wesfarmers` half-year and full-year
-  reports rather than a continuous single-mine quarterly PDF series.
+缺失原因：
+- 这段时间 `Mt Holland` 尚未进入正式建设阶段，因此按未开工处理，没有纳入。
+- 从 `2021Q3` 开始，项目进入建设期。
+- 但从这一阶段开始，官方披露主要采用 `Wesfarmers` 的半年报和年报口径，而不是连续的单矿山季度 PDF，因此部分季度没有独立季报文件。
 
 ## Wodgina
 
-Missing quarters:
+缺失季度：
 - `2019Q4-2021Q4`
 
-Reason:
-- Wodgina entered `care and maintenance` on `2019-11-01`.
-- These quarters were treated as a shutdown and maintenance period rather than
-  normal mine operations, so they were not included in the downloaded set.
-- The mine resumed production and ramp-up during `2022`, so reporting resumes
-  from `2022Q1` onward in this repository.
+缺失原因：
+- `Wodgina` 自 `2019-11-01` 起进入 `care and maintenance`。
+- 这段时间属于停产/维护阶段，而不是正常生产阶段，因此没有纳入本次整理。
+- 该矿山于 `2022` 年恢复生产并逐步爬坡，所以本仓库从 `2022Q1` 起重新开始收录。
 
 ## Bald Hill
 
-Missing quarters:
+缺失季度：
 - `2019Q3-2023Q3`
-- `2025Q1` onward
+- `2025Q1` 起
 
-Reason:
-- Bald Hill moved into administration and then `care and maintenance` in late
-  `2019`, so the long gap from `2019Q3-2023Q3` was treated as a shutdown and
-  restructuring period rather than normal operations.
-- `2023Q4` was included because `MinRes` took control of Bald Hill in
-  `November 2023`, after which official reporting resumed.
-- Bald Hill returned to `care and maintenance` in `December 2024`, so
-  `2025Q1` onward was treated as another shutdown and maintenance period and
-  was not included.
+缺失原因：
+- `Bald Hill` 在 `2019` 年下半年进入破产接管，随后转入 `care and maintenance`，因此 `2019Q3-2023Q3` 被视为停产/接管维护阶段，没有纳入。
+- `2023Q4` 开始重新纳入，是因为 `MinRes` 于 `2023年11月` 接管了 `Bald Hill`，官方披露也从这一阶段重新开始。
+- `Bald Hill` 于 `2024年12月` 再次进入 `care and maintenance`，因此 `2025Q1` 起被视为停产/维护阶段，没有纳入。

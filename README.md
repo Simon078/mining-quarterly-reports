@@ -1,6 +1,6 @@
-# Mining Quarterly Reports
+# 矿山季度报告汇总
 
-Official report PDFs for Mt Holland, Wodgina, and Bald Hill.
+本仓库存放了 `Mt Holland`、`Wodgina` 和 `Bald Hill` 三个矿山整理后的官方报告 PDF。
 
-See [REPORT_COVERAGE.md](REPORT_COVERAGE.md) for a short explanation of
-which quarters are missing and why.
+关于哪些季度缺失、以及缺失原因，请查看
+[REPORT_COVERAGE.md](REPORT_COVERAGE.md)。
